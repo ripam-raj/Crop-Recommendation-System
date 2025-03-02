@@ -6,4 +6,4 @@ We have a data base of around 2200 lines, on the bases of which we can predict w
 We can predict for almost 22 different types of crop according to the data.
 If we can Implement this project on the ground level then it can help our farmers to grow the best crop according to the condition's.
 If their is a new guy in the field of farming, then it will be easy for him/her to select the best crop for farming.  
-Ashutosh Ranjan
+Ripam Raj
